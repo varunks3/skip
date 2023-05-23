@@ -5,5 +5,5 @@ Secure secrete key issuing scheme for peer-to-peer networking using Shamir's alg
 ->KPA
 
 Note:
-Use java version 8 to run this project
+Use java version 8 to run this project,
 Shamir, net java file is just for reference
