@@ -1,4 +1,4 @@
-Secure secrete key issuing scheme for peer-to-peer networking using Shamir's algorithm
+Secure secrete key issuing scheme for peer-to-peer networking using Shamir's algorithm(skip)
 
 ->Peernode
 ->KGC
